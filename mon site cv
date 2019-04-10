@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Mon site cv</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="index.css" />
+</head>
+<body>
+    <main>
+        <header>
+            <nav>
+                <ul>
+                  <li><a href="#coordonnées">Coordonnées</a></li>
+                  <li><a href="#container1">Expérience</a></li>
+                  <li><a href="#container2">Formation</a></li>
+                  <li><a href="#container3">Loisirs</a></li>
+Pour mettre des liens glissant
+
+  <IMG SRC="lydielydie.jpg" id= "moi">
+
+                </ul>
+            </nav>
+
+
+        </header>
+
+
+
+
+<section id="Coordonnées">
+            <h3>Coordonnées</h3>
+
+            <p>BELLET <br> Lydie <br> 0617872366<br> Batiment Q ZAC du charrel <br>13400 Aubagne <br> Lydiecynthia7@gmail.com</p>
+        </div>
+
+
+
+<section id="container1">
+        <h3>Expériences</h3>
+            <li>Employé polyvalente à Maxi Bazar, Aubagne 13400 - tout les dimanches Novembre 2018 </li><br>
+            <li>Community Manager à Hibooks - Septembre 2018/2019</li><br>
+            <li> Stagiaire à Alain Afflelou, Aubagne 13400 -  Mars 2018</li><br>
+
+        </section>
+        <section id="container2">
+            <h3>Formation</h3>
+            <li>Bachelor 1 Digital Business School , Ynov Campus, Aix en Provence - 2018/2021</li><br>
+            <li>Terminale sciences et technologies du sanitaire et du social, Lycée St vincent de paul, Marseille 13006 - 2017/2018</li><br>
+            <li>Brevet des collèges, Collège Lakanal, Aubagne, 13400 - 2014</li>
+        </section>
+        <section id="container3">
+            <h3 id="loisirs ">Loisirs</h3>
+            <div id="left">
+                <h4>Gymnastique Rythmique et Sportive (GRS)</h4>
+
+            </div>
+            <div id="center">
+                <h4> Course à pied</h4>
+
+            </div>
+            <div id="right">
+                <h4>Piano</h4>
+
+            </div>
+ <section id="container4">
+            <h3>Compétences</h3>
+            <li>Fondements du marketing en ligne - Lynda.com</li><br>
+            <li> notion de photoshop, html, et du pack office </li><br>
+            <li> Notion d'espagnol et niveau b2 Anglais</li>
+        </section>
+        </section>
+
+
+
+    </main>
+</body>
+</html>
